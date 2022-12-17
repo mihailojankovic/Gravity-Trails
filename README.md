@@ -1,2 +1,2 @@
 # Gravity-Trails
-CN Project
+Code Ninjas Red Belt Project
